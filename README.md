@@ -2,11 +2,10 @@
 ---
 
 # Repo B → data-analytics-portfolio
-📌 *Description :  
-`Portfolio for Google Data Analytics Apprenticeship: SQL + EDA + reports`  
+📌 Description :  
+Portfolio for Google Data Analytics Apprenticeship: SQL + EDA + reports
 
 📌 README.md :
-```md
 # Data Analytics Portfolio
 <<<<<<< HEAD
 
