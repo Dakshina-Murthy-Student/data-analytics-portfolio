@@ -1,7 +1,8 @@
+# Data Analytics Portfolio
 ![status-badge](https://img.shields.io/badge/status-in_progress-blue)
 ![license-badge](https://img.shields.io/badge/license-MIT-green)
 
-A portfolio project for the **Google Data Analytics Apprenticeship (2025–2026).  
+A portfolio project for the Google Data Analytics Apprenticeship (2025–2026).  
 This repo will showcase:
 - SQL practice files
 - Exploratory Data Analysis (EDA) notebooks
