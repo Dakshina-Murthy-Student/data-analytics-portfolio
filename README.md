@@ -8,6 +8,7 @@
 📌 *README.md (replace content with this)*:
 ```md
 # Data Analytics Portfolio
+<<<<<<< HEAD
 
 ![status-badge](https://img.shields.io/badge/status-in_progress-blue)
 ![license-badge](https://img.shields.io/badge/license-MIT-green)
@@ -35,3 +36,7 @@ This repo will showcase:
 - Python 3.10+
 - Jupyter Notebooks
 - Pandas / NumPy
+=======
+Google Data Analytics Apprenticeship preparation.
+Day 1: Repo created. Next step -> add notes from Google DA Certificate.
+>>>>>>> 345b2ed0b48d3d35d9ca1cb78becdcaa079d78fc
