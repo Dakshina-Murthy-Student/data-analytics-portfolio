@@ -1,11 +1,11 @@
 
 ---
 
-### **Repo B → data-analytics-portfolio**
-📌 *Description (GitHub tagline)*:  
+# Repo B → data-analytics-portfolio
+📌 *Description :  
 `Portfolio for Google Data Analytics Apprenticeship: SQL + EDA + reports`  
 
-📌 *README.md (replace content with this)*:
+📌 README.md :
 ```md
 # Data Analytics Portfolio
 <<<<<<< HEAD
@@ -13,7 +13,7 @@
 ![status-badge](https://img.shields.io/badge/status-in_progress-blue)
 ![license-badge](https://img.shields.io/badge/license-MIT-green)
 
-A portfolio project for the **Google Data Analytics Apprenticeship (2025–2026)**.  
+A portfolio project for the **Google Data Analytics Apprenticeship (2025–2026).  
 This repo will showcase:
 - SQL practice files
 - Exploratory Data Analysis (EDA) notebooks
