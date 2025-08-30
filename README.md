@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ![status-badge](https://img.shields.io/badge/status-in_progress-blue)
 ![license-badge](https://img.shields.io/badge/license-MIT-green)
 
