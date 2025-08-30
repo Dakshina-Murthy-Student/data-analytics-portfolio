@@ -1,12 +1,3 @@
-
----
-
-# Repo B → data-analytics-portfolio
-📌 Description :  
-Portfolio for Google Data Analytics Apprenticeship: SQL + EDA + reports
-
-📌 README.md :
-# Data Analytics Portfolio
 <<<<<<< HEAD
 
 ![status-badge](https://img.shields.io/badge/status-in_progress-blue)
